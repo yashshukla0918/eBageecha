@@ -23,7 +23,7 @@
 
 <p>10. Scalable and Reliable Architecture: The application is built on a robust architecture that combines Flutter for the frontend, Firebase for authentication and real-time updates, MongoDB for data storage, and REST API for seamless integration with external services. This combination ensures a scalable, high-performing, and reliable application.</p>
 
-<h4>eBageecha revolutionizes the plant shopping experience by combining the power of technology with the beauty of nature. Whether you're an experienced gardener or a novice plant enthusiast, eBageecha is your go-to destination for all things green. Download the app today and embark on a journey to transform your living spaces with the magic of plants.</h4>
+
 
 
 
