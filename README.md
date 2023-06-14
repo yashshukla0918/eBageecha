@@ -1,3 +1,4 @@
+<style>div{margin-top:10px;margin-bottom:10px;}</style>
 <h2>eBageecha is a cutting-edge plant selling eCommerce application that brings the beauty of nature to your fingertips. Developed using Flutter, Firebase, MongoDB, REST API, and a host of other powerful tools, eBageecha offers a seamless and user-friendly experience for plant enthusiasts and gardening enthusiasts alike.</h2>
 
 <h1>Key Features:</h1>
